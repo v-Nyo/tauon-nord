@@ -1,4 +1,4 @@
-## Boring Nord theme for Tauon Music Box
+## Nord theme for Tauon Music Box
 
 ![preview](soothing-nordic-ash.png)
 
