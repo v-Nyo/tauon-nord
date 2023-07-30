@@ -10,4 +10,4 @@ Still needs a bit of work, if anybody is actually using this feel free to create
 ## Installation
 Open `Menu > Settings > Function > Open data folder`.
 
-Place `soothing-nordic-ash.ttheme` inside `theme` folder.
+Place `nordic-ash.ttheme` inside `theme` folder.
