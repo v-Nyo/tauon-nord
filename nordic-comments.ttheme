@@ -1,0 +1,232 @@
+# Tauon Music Box theme file
+
+# TODO replace RGB with HEX?
+# NOTE theme won't work if you put #nord directly behind the elements
+# NOTE #nord13 == what is this element??
+
+
+#-Backgrounds-----                                #backgrounds of several elements
+
+46,52,64       player background (top panel)
+                                                    #nord0
+235,203,139    tracklist panel
+                                                    #nord13
+67,76,94       playlist panel
+                                                    #nord2
+59,66,82       side panel
+                                                    #nord1
+46,52,64       bottom panel
+                                                    #nord0
+59,66,82       gallery background
+                                                    #nord1
+59,66,82       queue panel
+                                                    #nord1
+76,86,106      column bar background
+                                                    #nord3
+
+#-Frame--------                                   #not sure what this is
+
+191,97,106     sep line
+                                                    #nord11
+163,190,140    bb line
+                                                    #nord14
+129,161,193    tb line
+                                                    #nord9
+
+#-Playlist-------                                 #playlist, overriden by column settings when column is on
+
+143,188,187    track line
+                                                    #nord7
+136,192,208    track time
+                                                    #nord8
+136,192,208    track index
+                                                    #nord8
+129,161,193    track artist
+                                                    #nord9
+129,161,193    album line
+                                                    #nord9
+
+180,142,173    track playing
+                                                    #nord15
+136,192,208    index playing
+                                                    #nord8
+129,161,193    artist playing
+                                                    #nord9
+129,161,193    album playing
+                                                    #nord9
+136,192,208    time playing
+                                                    #nord8
+
+208,135,112    track missing
+                                                    #nord12
+
+76,86,106      fav line
+                                                    #nord3
+67,76,94       folder line
+                                                    #nord2
+216,222,233    folder title
+                                                    #nord4
+
+59,66,82       playing highlight
+                                                    #nord1
+76,86,106      select highlight
+                                                    #nord3
+180,142,173    gallery highlight
+                                                    #nord15
+
+#-Bottom panel------                              #the panel at the bottom with buttons on it
+
+76,86,106      buttons off
+                                                    #nord3
+94,129,172     buttons over
+                                                    #nord10
+216,222,233    buttons active
+                                                    #nord4
+
+143,188,187    playing time
+                                                    #nord7
+
+180,142,173    seek bar
+                                                    #nord15
+76,86,106      seek bg
+                                                    #nord3
+129,161,193    volume bar
+                                                    #nord9
+59,66,82       volume bg
+                                                    #nord1
+46,52,64       scroll bar
+                                                    #nord0
+
+76,86,106      mode off
+                                                    #nord3
+94,129,172     mode over
+                                                    #nord10
+216,222,233    mode on
+                                                    #nord4
+
+143,188,187    bottom title
+                                                    #nord7
+
+#-Menu-------------                               #the right-click menu, and also the menu opened by the settings button
+46,52,64       menu background
+                                                    #nord0
+59,66,82       menu highlight
+                                                    #nord1
+180,142,173    menu border
+                                                    #nord15
+216,222,233    menu text
+                                                    #nord4
+76,86,106      menu disable text
+                                                    #nord3
+76,86,106      menu icons
+                                                    #nord3
+
+#-Top panel---------                              #the top panel with the menu button
+
+229,233,240    tab active line
+                                                    #nord5
+216,222,233    tab line
+                                                    #nord4
+59,66,82       tab background
+                                                    #nord1
+94,129,172     tab over
+                                                    #nord10
+76,86,106      tab active background
+                                                    #nord3
+180,142,173    music vis
+                                                    #nord15
+
+67,76,94       window buttons background
+                                                    #nord2
+
+#-Side panel--------                              #panel that shows info of currently playing tracks
+
+236,239,244    title info
+                                                    #nord6
+216,222,233    extra info
+                                                    #nord4
+46,52,64       art border
+                                                    #nord0
+
+#-Dialog box---------
+
+59,66,82        box background
+                                                    #nord1
+180,142,173     box border
+                                                    #nord15
+
+236,239,244     box title text
+                                                    #nord6
+216,222,233     box text label
+                                                    #nord4
+
+229,233,240     box text normal
+                                                    #nord5
+216,222,233     box sub text
+                                                    #nord4
+163,190,140     box input text
+                                                    #nord14
+94,129,172      box text border
+                                                    #nord10
+
+216,222,233     box button text normal
+                                                    #nord4
+236,239,244     box button text highlight
+                                                    #nord6
+67,76,94        box button background normal
+                                                    #nord2
+76,86,106       box button background highlight
+                                                    #nord3
+76,86,106       box button border
+                                                    #nord3
+
+#-Misc--------------                              # not sure what this is
+
+46,52,64        playlist box background
+                                                    #nord0
+59,66,82        window frame
+                                                    #nord1
+67,76,94        artist bio background              
+                                                    #nord2
+229,233,240     artist bio text
+                                                    #nord5
+
+#-Mini Mode---------                              # mini mode is activated by F8
+
+59,66,82        mini bg
+                                                    #nord1
+180,142,173     mini border
+                                                    #nord15
+229,233,240     mini text 1
+                                                    #nord5
+216,222,233     mini text 2
+                                                    #nord4
+
+#-Columns--------                                 # columns view [unused]
+#
+#-column-genre
+#-column+genre
+#
+#-column-date
+#-column+date
+#
+#-column-codec
+#-column+codec
+#
+#-column-comment
+#-column+comment
+#
+#-column-title
+#-column+title
+#
+#-column-album-artist
+#-column+album-artist
+#
+#-column-composer
+#-column+composer
+#
+#-column-album
+#-column+album
+#
+#-column+time
+#-column+artist
