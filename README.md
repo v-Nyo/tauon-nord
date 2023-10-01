@@ -1,6 +1,6 @@
 ## Nord theme for Tauon Music Box
 
-This is a custom nord theme for tauon, based on the ash theme.
+This is a custom nord theme for [tauon](https://github.com/Taiko2k/TauonMusicBox), based on the ash theme.
 Still needs a bit of work, if anybody is actually using this feel free to create an issue.
 
 nordic-ash.ttheme = no wasted white space
