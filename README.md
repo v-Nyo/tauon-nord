@@ -7,7 +7,6 @@ nordic-ash.ttheme = no wasted white space
 
 nordic-comments.ttheme = added some comments for easier editing 
 
-
 ### Installation
 
 Install any custom theme by placing the `.ttheme` in Tauon's theme folder
@@ -16,17 +15,13 @@ Install any custom theme by placing the `.ttheme` in Tauon's theme folder
 
 `~/.local/share/TauonMusicBox/theme/` (for aur)
 
-
 or
-
 
 Open `Menu > Settings > Function > Open data folder`.
 
 Place `nordic-ash.ttheme` inside `theme` folder.
 
-
 ### Links
-
 
 Community theme thread:
 https://github.com/Taiko2k/TauonMusicBox/discussions/461
@@ -34,12 +29,8 @@ https://github.com/Taiko2k/TauonMusicBox/discussions/461
 Wiki page on theming:
 https://github.com/Taiko2k/TauonMusicBox/wiki/Theming
 
-
-## Screenshots
-
+### Screenshots
 
 ![preview](nordic-ash.png)
 
 ![preview](nordic-ash-2.png)
-
-
