@@ -9,7 +9,7 @@ Still needs a bit of work, if anybody is actually using this feel free to create
 
 ### Installation
 
-Install any custom theme by placing the `.ttheme` in Tauon's theme folder
+Install any custom theme by placing the `*.ttheme` in Tauon's theme folder
 
 `~/.var/app/com.github.taiko2k.tauonmb/data/TauonMusicBox` (for flatpak)
 
