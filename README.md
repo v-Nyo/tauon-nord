@@ -15,7 +15,7 @@ Install any custom theme by placing the `.ttheme` in Tauon's theme folder
 
 `~/.local/share/TauonMusicBox/theme/` (for aur)
 
-or
+or (in tauon)
 
 Open `Menu > Settings > Function > Open data folder`.
 
