@@ -3,9 +3,9 @@
 This is a custom nord theme for [tauon](https://github.com/Taiko2k/TauonMusicBox), based on the ash theme.
 Still needs a bit of work, if anybody is actually using this feel free to create an issue.
 
-nordic-ash.ttheme = no wasted white space
+`nordic-ash.ttheme` = no wasted white space
 
-nordic-comments.ttheme = added some comments for easier editing 
+`nordic-comments.ttheme` = added some comments for easier editing 
 
 ### Installation
 
