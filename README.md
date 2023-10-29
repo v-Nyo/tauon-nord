@@ -29,6 +29,9 @@ https://github.com/Taiko2k/TauonMusicBox/discussions/461
 Wiki page on theming:
 https://github.com/Taiko2k/TauonMusicBox/wiki/Theming
 
+Fantastic gruvbox theme:
+https://github.com/ggttttggggtt/tauon-gruvbox
+
 ### Screenshots
 
 ![preview](nordic-ash.png)
