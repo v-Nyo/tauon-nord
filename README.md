@@ -5,7 +5,7 @@ Please leave some feedback!
 
 `nordic-ash.ttheme` = no wasted white space
 
-`nordic-comments.ttheme` = added some comments for easier editing 
+`nordic-comments.ttheme` = added some comments for easier(?) editing
 
 ### Installation
 
