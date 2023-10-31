@@ -7,6 +7,10 @@ Please leave some feedback!
 
 `nordic-comments.ttheme` = added some comments for easier(?) editing
 
+### I am lazy please send help
+
+https://github.com/Taiko2k/TauonMusicBox/discussions/1040
+
 ### Installation
 
 Install any custom theme by placing the `.ttheme` in Tauon's theme folder
